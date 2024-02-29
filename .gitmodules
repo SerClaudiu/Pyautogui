@@ -1,0 +1,3 @@
+[submodule "Pyautogui"]
+	path = Pyautogui
+	url = https://github.com/SerClaudiu/Pyautogui
